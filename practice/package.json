@@ -1,0 +1,14 @@
+{
+  "name": "practice-javascript",
+  "version": "1.0.0",
+  "description": "Nathan's learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Huynh",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
